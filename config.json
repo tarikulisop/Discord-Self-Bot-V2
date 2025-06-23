@@ -1,0 +1,17 @@
+{
+    "I2C_Rate": 90,
+    "C2I_Rate": 87,
+    "bkash": "Make Payment - 017236",
+    "bkash2": "Send Money - 018185",
+    "Qr": "https://cdn.discordapp.com/attachments/1309838293726400573/1332762903522312222/b072a49b-5679-4eb8-bae1-47c8a00c381d.jpeg?ex=67966fad&is=67951e2d&hm=c45de746c2baaa3942fa00e1a495dec797014d1ddbc851bd4917a51b0f36936c&",
+    "Qr2": "Upload Here",
+    "SERVER_Link": "Upload Here",
+    "User_Id": "",
+    "LTC_ADDY": "",
+    "LTC_ADDY2": "",
+    "BINANCE_ID": "",
+    "ltckey": "Upload Here",
+    "apikey": "",
+    "token": "",
+    "prefix": "."
+    }
